@@ -3,7 +3,7 @@
 Este é um projeto simples de um aplicativo de download de vídeos do YouTube desenvolvido em Python usando a biblioteca tkinter para criar a interface gráfica e a biblioteca pytube para lidar com a funcionalidade de download.
 
 
-https://github.com/Yur3e/Youtuber-Downloader/assets/88630655/30d83cc2-35fc-4afe-9716-61c0f177c335
+![YoutubeDownloaderv1 0 1](https://github.com/Yur3e/Youtuber-Downloader/assets/88630655/13b264f8-b70c-4391-a6e9-9332bbec784f)
 
 
 ## **OBS:** O código teve de ser remodelado por conta das mudanças realizadas pelo Youtube em seu próprio algoritmo.
