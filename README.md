@@ -17,11 +17,11 @@ O aplicativo permite que o usuário cole um link de vídeo do YouTube e selecion
 ## **Requisitos**
 
 - Python 3.x
-- Bibliotecas:
- -- tkinter
- -- yt-dlp
- -- filedialog
- -- os
+- **Bibliotecas:**
+   - tkinter
+   - yt-dlp
+   - filedialog
+   - os
 
 ## **Como executar o projeto:**
 ### 1. Certifique-se de ter o Python 3.x instalado em seu sistema.
